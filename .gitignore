@@ -24,3 +24,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Docker
+data/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
